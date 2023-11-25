@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-New Repository Mod 2
+Este proyecto es una prueba de como crear repositorio y clonarlo de GitHub a mi Escritorio
